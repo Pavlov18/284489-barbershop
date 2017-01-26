@@ -1,0 +1,24 @@
+body {
+  font-family: "PT Sans Narrow", "Arial", serif;
+  font-size: 14pt;
+  line-height: 24pt;
+  color: #000;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.index-content h2,
+.bread-title-shell h1 {
+  font-size: 30pt;
+  line-height: 42pt;
+}
+
+.product-item-text h2 {
+  font-size: 14pt;
+  line-height: 18pt;
+}
+
+.product-inside-info h2 {
+  font-size: 24pt;
+  line-height: 30pt;
+}
