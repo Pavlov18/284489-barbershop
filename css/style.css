@@ -104,7 +104,6 @@ figure {
 }
 
 .catalog-sort fieldset{
-  min-height: 264px;
   margin-bottom: 50px;
 }
 
@@ -125,11 +124,9 @@ figure {
 .catalog-content {
   float: right;
   width: 700px;
-  margin-left: 10px;
 }
 
 .catalog-products {
-  height: 593px;
   margin-bottom: 45px;
 }
 
@@ -195,7 +192,6 @@ figure {
 }
 
 .pagination {
-  height: 43px;
 }
 
 .pagination li {
